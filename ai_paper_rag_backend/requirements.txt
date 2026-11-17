@@ -1,0 +1,10 @@
+﻿Django==3.2.11
+django-cors-headers==3.13.0
+requests==2.32.3
+chromadb
+llama-index
+llama-index-vector-stores-chroma
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+llama-parse
+socksio
